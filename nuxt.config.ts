@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   app: {
     head: {
+      title: "个人主页-胡磊涛spcodhu",
       viewport: 'width=device-width, initial-scale=1.0',
       meta: [
         { charset: 'utf-8' },

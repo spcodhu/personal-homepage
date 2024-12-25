@@ -19,7 +19,9 @@ const weChat = "呼哧好大枫"
             <div style="width: 100%; display: flex; justify-content: center;"> 
                 <span class="footerSpan"><a href="https://beian.miit.gov.cn/">鄂ICP备2022018360号-3</a></span>
                 <span class="verticalDivider mobileDisplayNone">|</span>
-                <span class="footerSpan mobileDisplayNone">本站源码可以在 <a href="">此处</a> 找到！</span>
+                <span class="footerSpan mobileDisplayNone">本站源码可以在 
+                    <a href="https://gitee.com/kkacdbdk/personal-homepage.git">此处</a> 找到！
+                </span>
             </div>
         </div>
     </div>
