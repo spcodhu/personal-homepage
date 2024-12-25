@@ -7,7 +7,7 @@
 如果您喜欢本项目或者有更好的点子，欢迎 star 和提交 pr!
 
 - 中文仓库：https://gitee.com/kkacdbdk/personal-homepage.git
-- 英文仓库：
+- 英文仓库：https://github.com/spcodhu/personal-homepage.git
 
 
 ## 快速开始
