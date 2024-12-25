@@ -7,7 +7,7 @@ You can visit [here](http://hlt.cab/) to see the latest showcase.
 If you like this project or have better ideas, feel free to star and submit a pull request (PR)!
 
 - Chinese repository: [Gitee](https://gitee.com/kkacdbdk/personal-homepage.git)
-- English repository: [GitHub](https://github.com/yourusername/personal-homepage)
+- English repository: [GitHub](https://github.com/spcodhu/personal-homepage.git)
 
 ## Quick Start
 
